@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="person">
+    <email>liam.major91@gmail.com</email>
+    <name>Liam Major</name>
+  </maintainer>
+  <longdescription lang="en">
+    A variation of the 'cat' Linux utility written in golang.
+  </longdescription>
+  <upstream>
+	  <remote-id type="github">lmajor91/gat</remote-id>
+      <bugs-to>https://github.com/lmajor91/gat/issues</bugs-to>
+  </upstream>
+</pkgmetadata>
+
