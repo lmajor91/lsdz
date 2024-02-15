@@ -1,14 +1,14 @@
 <?xml version="1.0" ?>
 <repositories version="1.0">
   <repo quality="experimental" status="unofficial">
-    <name>my-overlay</name>
-      <description lang="en">my-name's Custom Gentoo Overlay.</description>
-        <homepage></homepage>
+    <name>lsdz</name>
+      <description lang="en">My unofficial Gentoo repository, containing random programs.</description>
+        <homepage>https://github.com/lmajor91/lsdz</homepage>
         <owner type="person">
             <name>Liam Major</name>
 			<email>liam.major91@gmail.com</email>
         </owner>
-        <source type="git">git://github.com/my-name/my-overlay.git</source>
+        <source type="git">git@github.com:lmajor91/lsdz.git</source>
   </repo>
 </repositories>
 
